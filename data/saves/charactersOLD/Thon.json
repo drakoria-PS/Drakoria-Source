@@ -1,0 +1,1784 @@
+{
+  "total-play-time-ms": 774400302,
+  "username": "Thon",
+  "password": "tgm45tlop5190",
+  "email": "null",
+  "staff-rights": "DEVELOPER",
+  "game-mode": "NORMAL",
+  "boss-points": 1,
+  "pvm-points": 15818,
+  "npc-kills": 286,
+  "immortalx-points": 4,
+  "loyalty-title": "NONE",
+  "position": {
+    "x": 3208,
+    "y": 3427,
+    "z": 0
+  },
+  "online-status": "ON",
+  "given-starter": false,
+  "money-pouch": 1646079726,
+  "donated": 20,
+  "pvm-rank": "BRONZE",
+  "minutes-bonus-exp": -1,
+  "total-gained-exp": -1527686809,
+  "prestige-points": 12,
+  "chops": 7,
+  "serverkills": 74,
+  "achievement-points": 10,
+  "dung-tokens": 0,
+  "commendations": 0,
+  "loyalty-points": 255549,
+  "total-loyalty-points": 255549.0,
+  "voting-points": 0,
+  "slayer-points": 0,
+  "pk-points": 0,
+  "donation-points": 20,
+  "trivia-points": 200,
+  "cluescompleted": 0,
+  "player-kills": 0,
+  "player-killstreak": 0,
+  "player-deaths": 0,
+  "target-percentage": 14,
+  "bh-rank": 0,
+  "gender": "MALE",
+  "spell-book": "NORMAL",
+  "shop-updated": false,
+  "shop-earnings": 0,
+  "prayer-book": "CURSES",
+  "running": true,
+  "run-energy": 100,
+  "music": true,
+  "sounds": false,
+  "auto-retaliate": true,
+  "xp-locked": false,
+  "veng-cast": false,
+  "last-veng": 1645401152,
+  "fight-type": "SCIMITAR_CHOP",
+  "sol-effect": 0,
+  "skull-timer": 0,
+  "accept-aid": false,
+  "poison-damage": 0,
+  "poison-immunity": 0,
+  "overload-timer": 0,
+  "fire-immunity": 0,
+  "fire-damage-mod": 0,
+  "prayer-renewal-timer": 0,
+  "teleblock-timer": 0,
+  "special-amount": 100,
+  "entered-gwd-room": false,
+  "gwd-altar-delay": 0,
+  "gwd-killcount": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "effigy": 0,
+  "summon-npc": -1,
+  "summon-death": -1,
+  "process-farming": false,
+  "clanchat": "Thon",
+  "autocast": false,
+  "autocast-spell": -1,
+  "dfs-charges": 0,
+  "coins-gambled": 0,
+  "slayer-master": "VANNAKA",
+  "slayer-task": "NO_TASK",
+  "prev-slayer-task": "NO_TASK",
+  "task-amount": 0,
+  "task-streak": 0,
+  "duo-partner": "null",
+  "double-slay-xp": false,
+  "recoil-deg": 0,
+  "brawler-deg": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "killed-players": [],
+  "killed-gods": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "barrows-brother": [
+    [
+      2030,
+      0
+    ],
+    [
+      2029,
+      0
+    ],
+    [
+      2028,
+      0
+    ],
+    [
+      2027,
+      0
+    ],
+    [
+      2026,
+      0
+    ],
+    [
+      2025,
+      0
+    ]
+  ],
+  "random-coffin": 0,
+  "barrows-killcount": 0,
+  "nomad": [
+    false,
+    false
+  ],
+  "recipe-for-disaster": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "recipe-for-disaster-wave": 0,
+  "dung-items-bound": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "rune-ess": 0,
+  "pure-ess": 0,
+  "has-bank-pin": false,
+  "last-pin-attempt": 0,
+  "invalid-pin-attempts": 0,
+  "bank-pin": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "appearance": [
+    0,
+    6,
+    19,
+    26,
+    34,
+    37,
+    42,
+    14,
+    4,
+    12,
+    6,
+    4,
+    0
+  ],
+  "agility-obj": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "skills": {
+    "level": [
+      99,
+      99,
+      99,
+      999,
+      99,
+      0,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      50,
+      99,
+      99,
+      99
+    ],
+    "maxLevel": [
+      99,
+      99,
+      99,
+      999,
+      99,
+      999,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      50,
+      99,
+      99,
+      99
+    ],
+    "experience": [
+      2000000000,
+      24099100,
+      2000000000,
+      2000000000,
+      15599866,
+      536870911,
+      13034431,
+      13034431,
+      13045681,
+      13034431,
+      13034431,
+      13034431,
+      13034431,
+      16409991,
+      13034431,
+      14722211,
+      13034431,
+      13089615,
+      14722211,
+      27164431,
+      13034431,
+      102363,
+      13075840,
+      14308483,
+      13034431
+    ]
+  },
+  "inventory": [
+    {
+      "id": 6199,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 7673,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19314,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 4151,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 14004,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19308,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 2572,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19317,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 9470,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20010,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 995,
+      "amount": 103,
+      "slot": 0
+    },
+    {
+      "id": 7774,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 18917,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 18985,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20555,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19055,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19025,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19008,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 773,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19673,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19028,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19006,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19004,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 11533,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 11423,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19059,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 9940,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": -1,
+      "amount": 0,
+      "slot": 0
+    }
+  ],
+  "equipment": [
+    {
+      "id": -1,
+      "amount": 0,
+      "slot": 0
+    },
+    {
+      "id": -1,
+      "amount": 0,
+      "slot": 0
+    },
+    {
+      "id": -1,
+      "amount": 0,
+      "slot": 0
+    },
+    {
+      "id": 19055,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": -1,
+      "amount": 0,
+      "slot": 0
+    },
+    {
+      "id": -1,
+      "amount": 0,
+      "slot": 0
+    },
+    {
+      "id": -1,
+      "amount": 0,
+      "slot": 0
+    },
+    {
+      "id": -1,
+      "amount": 0,
+      "slot": 0
+    },
+    {
+      "id": -1,
+      "amount": 0,
+      "slot": 0
+    },
+    {
+      "id": -1,
+      "amount": 0,
+      "slot": 0
+    },
+    {
+      "id": -1,
+      "amount": 0,
+      "slot": 0
+    },
+    {
+      "id": -1,
+      "amount": 0,
+      "slot": 0
+    },
+    {
+      "id": -1,
+      "amount": 0,
+      "slot": 0
+    },
+    {
+      "id": -1,
+      "amount": 0,
+      "slot": 0
+    }
+  ],
+  "bank-0": [
+    {
+      "id": 18199,
+      "amount": 6,
+      "slot": 0
+    },
+    {
+      "id": 15009,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 556,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 555,
+      "amount": 4018,
+      "slot": 0
+    },
+    {
+      "id": 7774,
+      "amount": 87,
+      "slot": 0
+    },
+    {
+      "id": 532,
+      "amount": 78,
+      "slot": 0
+    },
+    {
+      "id": 7776,
+      "amount": 5899,
+      "slot": 0
+    },
+    {
+      "id": 526,
+      "amount": 80,
+      "slot": 0
+    },
+    {
+      "id": 995,
+      "amount": 520886875,
+      "slot": 0
+    },
+    {
+      "id": 565,
+      "amount": 2793,
+      "slot": 0
+    },
+    {
+      "id": 560,
+      "amount": 6837,
+      "slot": 0
+    },
+    {
+      "id": 6922,
+      "amount": 2,
+      "slot": 0
+    },
+    {
+      "id": 6918,
+      "amount": 4,
+      "slot": 0
+    },
+    {
+      "id": 18830,
+      "amount": 5,
+      "slot": 0
+    },
+    {
+      "id": 6920,
+      "amount": 6,
+      "slot": 0
+    },
+    {
+      "id": 20510,
+      "amount": 4,
+      "slot": 0
+    },
+    {
+      "id": 4675,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 15241,
+      "amount": 2,
+      "slot": 0
+    },
+    {
+      "id": 15243,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20508,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 13613,
+      "amount": 10,
+      "slot": 0
+    },
+    {
+      "id": 15270,
+      "amount": 39,
+      "slot": 0
+    },
+    {
+      "id": 2,
+      "amount": 408,
+      "slot": 0
+    },
+    {
+      "id": 12159,
+      "amount": 45,
+      "slot": 0
+    },
+    {
+      "id": 7775,
+      "amount": 42,
+      "slot": 0
+    },
+    {
+      "id": 12158,
+      "amount": 41,
+      "slot": 0
+    },
+    {
+      "id": 15335,
+      "amount": 9,
+      "slot": 0
+    },
+    {
+      "id": 14497,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 4708,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 3839,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 4458,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 4091,
+      "amount": 7,
+      "slot": 0
+    },
+    {
+      "id": 15272,
+      "amount": 62,
+      "slot": 0
+    },
+    {
+      "id": 385,
+      "amount": 15,
+      "slot": 0
+    },
+    {
+      "id": 4587,
+      "amount": 5,
+      "slot": 0
+    },
+    {
+      "id": 13209,
+      "amount": 3,
+      "slot": 0
+    },
+    {
+      "id": 6685,
+      "amount": 2,
+      "slot": 0
+    },
+    {
+      "id": 1515,
+      "amount": 150,
+      "slot": 0
+    },
+    {
+      "id": 1513,
+      "amount": 429,
+      "slot": 0
+    },
+    {
+      "id": 383,
+      "amount": 541,
+      "slot": 0
+    },
+    {
+      "id": 2359,
+      "amount": 225,
+      "slot": 0
+    },
+    {
+      "id": 2361,
+      "amount": 225,
+      "slot": 0
+    },
+    {
+      "id": 2363,
+      "amount": 160,
+      "slot": 0
+    },
+    {
+      "id": 7944,
+      "amount": 120,
+      "slot": 0
+    },
+    {
+      "id": 1623,
+      "amount": 30,
+      "slot": 0
+    },
+    {
+      "id": 1619,
+      "amount": 35,
+      "slot": 0
+    },
+    {
+      "id": 1517,
+      "amount": 90,
+      "slot": 0
+    },
+    {
+      "id": 1621,
+      "amount": 20,
+      "slot": 0
+    },
+    {
+      "id": 1617,
+      "amount": 15,
+      "slot": 0
+    },
+    {
+      "id": 1777,
+      "amount": 75,
+      "slot": 0
+    },
+    {
+      "id": 111,
+      "amount": 20,
+      "slot": 0
+    },
+    {
+      "id": 12160,
+      "amount": 351,
+      "slot": 0
+    },
+    {
+      "id": 1521,
+      "amount": 60,
+      "slot": 0
+    },
+    {
+      "id": 3004,
+      "amount": 10,
+      "slot": 0
+    },
+    {
+      "id": 99,
+      "amount": 10,
+      "slot": 0
+    },
+    {
+      "id": 4151,
+      "amount": 3,
+      "slot": 0
+    },
+    {
+      "id": 20582,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20574,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20590,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20586,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20588,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20598,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20592,
+      "amount": 2,
+      "slot": 0
+    },
+    {
+      "id": 20584,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20594,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20602,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20580,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 10498,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20502,
+      "amount": 31,
+      "slot": 0
+    },
+    {
+      "id": 773,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 9185,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20596,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20600,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20608,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 841,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 6070,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 882,
+      "amount": 895,
+      "slot": 0
+    },
+    {
+      "id": 11698,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 1201,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 11335,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 11133,
+      "amount": 2,
+      "slot": 0
+    },
+    {
+      "id": 11718,
+      "amount": 2,
+      "slot": 0
+    },
+    {
+      "id": 15332,
+      "amount": 9,
+      "slot": 0
+    },
+    {
+      "id": 10564,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 10589,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 11882,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 6914,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 6199,
+      "amount": 27,
+      "slot": 0
+    },
+    {
+      "id": 15501,
+      "amount": 10,
+      "slot": 0
+    },
+    {
+      "id": 11726,
+      "amount": 2,
+      "slot": 0
+    },
+    {
+      "id": 3753,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 6585,
+      "amount": 2,
+      "slot": 0
+    },
+    {
+      "id": 2595,
+      "amount": 6,
+      "slot": 0
+    },
+    {
+      "id": 15018,
+      "amount": 2,
+      "slot": 0
+    },
+    {
+      "id": 1377,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 10551,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 2591,
+      "amount": 6,
+      "slot": 0
+    },
+    {
+      "id": 3473,
+      "amount": 4,
+      "slot": 0
+    },
+    {
+      "id": 2597,
+      "amount": 6,
+      "slot": 0
+    },
+    {
+      "id": 9940,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 9040,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 9070,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 11539,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19036,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19032,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 18949,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 18953,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 18962,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20640,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19986,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20101,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19030,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19985,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19984,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19059,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19029,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 20642,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19031,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19033,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 8410,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 2577,
+      "amount": 2,
+      "slot": 0
+    },
+    {
+      "id": 15486,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 2581,
+      "amount": 3,
+      "slot": 0
+    },
+    {
+      "id": 1249,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 2579,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 2593,
+      "amount": 2,
+      "slot": 0
+    },
+    {
+      "id": 1305,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 8,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 15020,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19338,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 2412,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 13883,
+      "amount": 11,
+      "slot": 0
+    },
+    {
+      "id": 11230,
+      "amount": 139,
+      "slot": 0
+    },
+    {
+      "id": 15220,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 2434,
+      "amount": 15,
+      "slot": 0
+    },
+    {
+      "id": 19937,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 19004,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 6570,
+      "amount": 2,
+      "slot": 0
+    },
+    {
+      "id": 18782,
+      "amount": 6,
+      "slot": 0
+    },
+    {
+      "id": 4093,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 2572,
+      "amount": 2,
+      "slot": 0
+    },
+    {
+      "id": 4089,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 2450,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 11283,
+      "amount": 1,
+      "slot": 0
+    },
+    {
+      "id": 11212,
+      "amount": 18,
+      "slot": 0
+    },
+    {
+      "id": 12163,
+      "amount": 350,
+      "slot": 0
+    },
+    {
+      "id": 6739,
+      "amount": 8,
+      "slot": 0
+    }
+  ],
+  "bank-1": [],
+  "bank-2": [],
+  "bank-3": [],
+  "bank-4": [],
+  "bank-5": [],
+  "bank-6": [],
+  "bank-7": [],
+  "bank-8": [],
+  "ge-slots": [
+    {
+      "state": "EMPTY"
+    },
+    {
+      "state": "EMPTY"
+    },
+    {
+      "state": "EMPTY"
+    },
+    {
+      "state": "EMPTY"
+    },
+    {
+      "state": "EMPTY"
+    },
+    {
+      "state": "EMPTY"
+    }
+  ],
+  "charm-imp": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "friends": [],
+  "ignores": [],
+  "loyalty-titles": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    true,
+    false,
+    false
+  ],
+  "kills": [
+    {
+      "runningTotal": 1,
+      "npcId": 5478,
+      "npcName": "Mad King",
+      "amount": 1,
+      "boss": true
+    },
+    {
+      "runningTotal": 3,
+      "npcId": 1857,
+      "npcName": "Avatar of Death",
+      "amount": 3,
+      "boss": true
+    },
+    {
+      "runningTotal": 1,
+      "npcId": 667,
+      "npcName": "Chronozon",
+      "amount": 1,
+      "boss": true
+    },
+    {
+      "runningTotal": 231,
+      "npcId": 1265,
+      "npcName": "Rock Crab",
+      "amount": 231,
+      "boss": false
+    },
+    {
+      "runningTotal": 38,
+      "npcId": 130,
+      "npcName": "Yeti",
+      "amount": 38,
+      "boss": true
+    },
+    {
+      "runningTotal": 2,
+      "npcId": 2436,
+      "npcName": "Headless beast",
+      "amount": 2,
+      "boss": true
+    },
+    {
+      "runningTotal": 1,
+      "npcId": 6309,
+      "npcName": "Le\u0027fosh The Brutal",
+      "amount": 1,
+      "boss": true
+    },
+    {
+      "runningTotal": 1,
+      "npcId": 2643,
+      "npcName": "Lurer Drax",
+      "amount": 1,
+      "boss": true
+    },
+    {
+      "runningTotal": 1,
+      "npcId": 3808,
+      "npcName": "Gnome Gang",
+      "amount": 1,
+      "boss": true
+    },
+    {
+      "runningTotal": 1,
+      "npcId": 6303,
+      "npcName": "Abbadon",
+      "amount": 1,
+      "boss": true
+    },
+    {
+      "runningTotal": 2,
+      "npcId": 78,
+      "npcName": "Giant bat",
+      "amount": 2,
+      "boss": false
+    },
+    {
+      "runningTotal": 4,
+      "npcId": 1624,
+      "npcName": "Dust devil",
+      "amount": 4,
+      "boss": false
+    },
+    {
+      "runningTotal": 1,
+      "npcId": 1471,
+      "npcName": "Skeleton",
+      "amount": 1,
+      "boss": false
+    },
+    {
+      "runningTotal": 1,
+      "npcId": 72,
+      "npcName": "Troll",
+      "amount": 1,
+      "boss": true
+    }
+  ],
+  "drops": [
+    {
+      "item": 4224,
+      "amount": 1,
+      "rareDrop": true
+    },
+    {
+      "item": 1516,
+      "amount": 75,
+      "rareDrop": false
+    },
+    {
+      "item": 2360,
+      "amount": 5,
+      "rareDrop": false
+    },
+    {
+      "item": 3204,
+      "amount": 1,
+      "rareDrop": false
+    },
+    {
+      "item": 995,
+      "amount": 113454,
+      "rareDrop": false
+    },
+    {
+      "item": 2352,
+      "amount": 12,
+      "rareDrop": false
+    },
+    {
+      "item": 1305,
+      "amount": 2,
+      "rareDrop": false
+    },
+    {
+      "item": 1127,
+      "amount": 1,
+      "rareDrop": false
+    },
+    {
+      "item": 1514,
+      "amount": 24,
+      "rareDrop": false
+    },
+    {
+      "item": 454,
+      "amount": 68,
+      "rareDrop": false
+    },
+    {
+      "item": 1632,
+      "amount": 4,
+      "rareDrop": false
+    },
+    {
+      "item": 560,
+      "amount": 100,
+      "rareDrop": false
+    },
+    {
+      "item": 557,
+      "amount": 1200,
+      "rareDrop": false
+    },
+    {
+      "item": 1079,
+      "amount": 1,
+      "rareDrop": false
+    },
+    {
+      "item": 561,
+      "amount": 122,
+      "rareDrop": false
+    },
+    {
+      "item": 989,
+      "amount": 1,
+      "rareDrop": false
+    },
+    {
+      "item": 10977,
+      "amount": 1,
+      "rareDrop": false
+    },
+    {
+      "item": 5698,
+      "amount": 1,
+      "rareDrop": false
+    },
+    {
+      "item": 3024,
+      "amount": 2,
+      "rareDrop": false
+    },
+    {
+      "item": 441,
+      "amount": 22,
+      "rareDrop": false
+    },
+    {
+      "item": 1319,
+      "amount": 1,
+      "rareDrop": false
+    },
+    {
+      "item": 987,
+      "amount": 1,
+      "rareDrop": false
+    },
+    {
+      "item": 563,
+      "amount": 60,
+      "rareDrop": false
+    },
+    {
+      "item": 439,
+      "amount": 24,
+      "rareDrop": false
+    },
+    {
+      "item": 403,
+      "amount": 29,
+      "rareDrop": false
+    },
+    {
+      "item": 1617,
+      "amount": 1,
+      "rareDrop": false
+    },
+    {
+      "item": 526,
+      "amount": 6,
+      "rareDrop": false
+    },
+    {
+      "item": 437,
+      "amount": 20,
+      "rareDrop": false
+    },
+    {
+      "item": 1454,
+      "amount": 3,
+      "rareDrop": false
+    },
+    {
+      "item": 530,
+      "amount": 2,
+      "rareDrop": false
+    },
+    {
+      "item": 532,
+      "amount": 1,
+      "rareDrop": false
+    },
+    {
+      "item": 407,
+      "amount": 16,
+      "rareDrop": false
+    },
+    {
+      "item": 313,
+      "amount": 144,
+      "rareDrop": false
+    },
+    {
+      "item": 1625,
+      "amount": 29,
+      "rareDrop": false
+    },
+    {
+      "item": 45,
+      "amount": 43,
+      "rareDrop": false
+    },
+    {
+      "item": 592,
+      "amount": 1,
+      "rareDrop": false
+    },
+    {
+      "item": 11320,
+      "amount": 50,
+      "rareDrop": false
+    },
+    {
+      "item": 12163,
+      "amount": 15,
+      "rareDrop": false
+    },
+    {
+      "item": 732,
+      "amount": 6,
+      "rareDrop": false
+    },
+    {
+      "item": 12159,
+      "amount": 52,
+      "rareDrop": false
+    },
+    {
+      "item": 12158,
+      "amount": 93,
+      "rareDrop": false
+    },
+    {
+      "item": 12160,
+      "amount": 34,
+      "rareDrop": false
+    },
+    {
+      "item": 805,
+      "amount": 2,
+      "rareDrop": false
+    },
+    {
+      "item": 830,
+      "amount": 6,
+      "rareDrop": false
+    },
+    {
+      "item": 5295,
+      "amount": 1,
+      "rareDrop": false
+    },
+    {
+      "item": 18778,
+      "amount": 2,
+      "rareDrop": true
+    },
+    {
+      "item": 985,
+      "amount": 1,
+      "rareDrop": false
+    }
+  ],
+  "achievements-completion": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "achievements-progress": [
+    0,
+    927,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    3,
+    0,
+    0,
+    26892,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0,
+    0,
+    9251571,
+    26892,
+    2,
+    0,
+    1,
+    0,
+    288,
+    50,
+    0,
+    3
+  ],
+  "max-cape-colors": [
+    65214,
+    65200,
+    65186,
+    62995
+  ],
+  "player-title": ""
+}

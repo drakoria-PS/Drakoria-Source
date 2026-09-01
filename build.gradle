@@ -1,0 +1,40 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'com.skyfire'
+version = '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src']
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'lib', include: ['*.jar'])
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+application {
+    mainClass = 'com.skyfire.SkyFireLauncher'
+}
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'Cp1252'
+}
+
+tasks.named('run') {
+    workingDir = project.projectDir
+}

@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Compiled Java
+bin/
+
+# Backups
+bin_backup/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db

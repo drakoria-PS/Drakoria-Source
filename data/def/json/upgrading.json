@@ -1,0 +1,27 @@
+[
+
+  {
+    "NAME": "ROW",
+    "STARTER_ITEM": 2572,
+    "REQUIREMENTS": [
+      {
+        "id": 2572,
+        "amount": 1
+      }
+    ],
+    "SUCCESS_CHANCE": 35,
+    "END_ITEM": 11527
+  },
+    {
+    "NAME": "ROW",
+    "STARTER_ITEM": 6570,
+    "REQUIREMENTS": [
+      {
+        "id": 995,
+        "amount": 100000000
+      }
+    ],
+    "SUCCESS_CHANCE": 35,
+    "END_ITEM": 1048
+  }
+  ]
