@@ -23,6 +23,7 @@ import com.skyfire.util.Misc;
 import com.skyfire.world.content.combat.CombatContainer;
 import com.skyfire.world.content.combat.CombatFactory;
 import com.skyfire.world.content.combat.CombatType;
+import com.skyfire.world.content.combat.visuals.DrakoriaCombatVisuals;
 import com.skyfire.world.content.combat.CombatContainer.CombatHit;
 import com.skyfire.world.content.combat.effect.CombatPoisonEffect.PoisonType;
 import com.skyfire.world.content.combat.range.CombatRangedAmmo.AmmunitionData;
@@ -150,7 +151,7 @@ public class DefaultRangedCombatStrategy implements CombatStrategy {
 			fireProjectile(player, victim, ammo, dBow);
 		}
 
-		CombatContainer container = new CombatContainer(entity, victim, dBow ? 2 : 1, CombatType.RANGED, true);
+		CombatContainer container = DrakoriaCombatVisuals.rangedContainer(player, victim, ammo, dBow);
 
 		
 		/** CROSSBOW BOLTS EFFECT **/
