@@ -63,6 +63,16 @@ public final class DrakoriaCombatVisuals {
         };
     }
 
+    /** Wind aura when the staff begins casting; graphic 102 is already in cache. */
+    public static void chargeWindVortex(Character caster, int spellId) {
+        if (caster == null || !caster.isPlayer()) return;
+        Player player = (Player) caster;
+        int weaponId = player.getEquipment().get(Equipment.WEAPON_SLOT).getId();
+        if (mageEnabled(weaponId, spellId)) {
+            caster.performGraphic(new Graphic(102, GraphicHeight.HIGH));
+        }
+    }
+
     /**
      * Add two vertically staggered wind streams to the original Wind Strike
      * projectile, approximating a short vortex without modifying spell damage.
