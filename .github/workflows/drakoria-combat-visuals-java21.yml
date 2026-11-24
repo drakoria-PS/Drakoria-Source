@@ -1,0 +1,47 @@
+name: Drakoria Range + Mage VFX — Java 21
+
+on:
+  push:
+    branches: [feature-drakoria-range-mage-vfx-20261124]
+    paths:
+      - '.github/workflows/drakoria-combat-visuals-java21.yml'
+      - 'src/com/skyfire/world/content/combat/visuals/**'
+      - 'src/com/skyfire/world/content/combat/strategy/impl/DefaultRangedCombatStrategy.java'
+      - 'src/com/skyfire/world/content/combat/magic/CombatSpell.java'
+      - 'tests/com/skyfire/world/content/combat/visuals/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  java21:
+    name: Server compile + isolated visuals gate
+    runs-on: windows-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: Java 21
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+      - name: Gradle 8.14.8 (Java 21 compatible)
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.14.8'
+      - name: Compile server
+        shell: pwsh
+        run: |
+          & gradle --no-daemon classes
+          if ($LASTEXITCODE -ne 0) { throw 'DRAKORIA_SOURCE_COMPILE_FAILED' }
+      - name: Focused scope checks
+        shell: pwsh
+        run: |
+          $out = 'build/test-custom-combat-visuals'
+          New-Item -ItemType Directory -Path $out -Force | Out-Null
+          & javac --release 8 -encoding UTF-8 -cp build/classes/java/main -d $out tests/com/skyfire/world/content/combat/visuals/DrakoriaCombatVisualsCheck.java
+          if ($LASTEXITCODE -ne 0) { throw 'DRAKORIA_VISUALS_TEST_COMPILE_FAILED' }
+          & java -cp "$out;build/classes/java/main" com.skyfire.world.content.combat.visuals.DrakoriaCombatVisualsCheck
+          if ($LASTEXITCODE -ne 0) { throw 'DRAKORIA_VISUALS_TEST_FAILED' }
+          Write-Host 'DRAKORIA_COMBAT_VISUALS_JAVA21=PASS gpu_pixels=NOT_TESTED'
