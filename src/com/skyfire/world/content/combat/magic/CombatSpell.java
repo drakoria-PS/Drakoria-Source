@@ -40,6 +40,7 @@ public abstract class CombatSpell extends Spell {
 
 		// Then send the starting graphic.
 		startGraphic().ifPresent(cast::performGraphic);
+		DrakoriaCombatVisuals.chargeWindVortex(cast, spellId());
 
 		// Finally send the projectile after two ticks.
 		castProjectile(cast, castOn).ifPresent(g -> {
