@@ -7,6 +7,7 @@ import com.skyfire.engine.task.TaskManager;
 import com.skyfire.model.Animation;
 import com.skyfire.model.Graphic;
 import com.skyfire.model.Projectile;
+import com.skyfire.world.content.combat.visuals.DrakoriaCombatVisuals;
 import com.skyfire.world.entity.impl.Character;
 import com.skyfire.world.entity.impl.npc.NPC;
 
@@ -46,6 +47,8 @@ public abstract class CombatSpell extends Spell {
 				@Override
 				public void execute() {
 					g.sendProjectile();
+					// Only Wind Strike + Staff of Air, gated; the original projectile is unchanged.
+					DrakoriaCombatVisuals.addWindVortex(cast, castOn, CombatSpell.this.spellId());
 					this.stop();
 				}
 			});
